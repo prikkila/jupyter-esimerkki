@@ -1,2 +1,2 @@
 # jupyter-esimerkki
-Tämä ohjelmavarasto (repository) sisältää esimerkin siitä, miten Jupyter Notebookia voidaan hyödyntää opetuksessa.
+Tämä ohjelmavarasto (repository) sisältää notebookin, jossa esitellään muutama esimerkki Jupyter Notebookin hyödyntämisestä opetuksessa.
